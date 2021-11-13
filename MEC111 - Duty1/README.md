@@ -3,7 +3,7 @@
 
 ## Objectives :-
 
- In this task we need to draw the relation between `g in m/s` & `h in km` based on `Newton's law of universal gravitation`
+ In this task we need to draw the relation between `g in m/s^2` & `h in km` based on `Newton's law of universal gravitation`
 
 ## Deliverables :-
 
