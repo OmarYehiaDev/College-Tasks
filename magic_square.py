@@ -1,14 +1,11 @@
 def is_magic_square():
+    # Convert string input to matrix
     square = list(eval(input("Enter square:\t")))
-    # Check if matrix is square or not
-    rows = len(square)
-    for row in square:
-        if len(row) != rows:
-            print("NOT MAGIC")
-            return
     result = "MAGIC"
     sqLen = len(square)
     magic_constant = 0
+    # For defining the magic constant which is
+    # the sum of any row, column, or diagonal
     for n in square[0]:
         magic_constant += n
     # For testing rows
