@@ -1,7 +1,6 @@
-import ast
-
 def is_magic_square():
-    square = ast.literal_eval(input("Enter square:\t"))
+    square = list(eval(input("Enter square:\t")))
+    # Check if matrix is square or not
     rows = len(square)
     for row in square:
         if len(row) != rows:
