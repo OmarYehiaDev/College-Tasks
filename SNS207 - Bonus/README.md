@@ -3,7 +3,7 @@
 
 ## Objectives :-
 
- In this task we need to draw the relation among `T in Kelvin`, `P in Pascal`, `Density in kg/m<sup>3</sup>`, & `h in Km` based on `ISA Model`
+ In this task we need to draw the relation among `T in Kelvin`, `P in Pascal`, <code>Density in kg/m<sup>3</sup></code>, & `h in Km` based on `ISA Model`
 
 ## Deliverables :-
 
